@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name":"Daniel Murillo",
+    "occupation":"Developer",
+    "description":"I love programming, and everything that comes with it, from the creative process of thinking an idea and designing it, the thoughest parts of riddling, sitting down, question your existence and having an eureka moment, until you finally feel that is complete and show it to the world to let it grow",
+    "subtitle": "Systems Engineer with love for coding",
+    "image":"profilepic.jpg",
+    "bio":"I love programming, and everything that comes with it, from the creative process of thinking an idea and designing it, the thoughest parts of riddling, sitting down, question your existence and having an eureka moment, until you finally feel that is complete and show it to the world to let it grow",
+    "contactmessage":"Do you think I could fit your necessities? Contact me!",
+    "email": "danmurilloac@gmail.com",
+    "phone": "+52 1 612 1031 477",
+    "address":{
+      "city":"Chihuahua",
+      "state":"Chihuahua",
+      "zip": "21100"
+    },
+    "resumedownload":"http://www.pdf995.com/samples/pdf.pdf",
+    "interests": [
+      {
+        "title": "Game Development",
+        "icon": "fa fa-gamepad",
+        "description": "Game development is certainly my favorite. You can create a lot of different experiences that touches the heart of the people. I enjoy every step of the process so much that it's not a job for me. Even when my main job is not about game development, I find rejoice from gathering game development knowledge or by putting myself in front of a computer and creating some games"
+      },
+      {
+        "title": "Mobile and Web",
+        "icon": "fa fa-mobile-phone",
+        "description": "Using the mobile and web technologies is really interesting to me, especially when we can find new and interesting ways to use them and create cool and well designed solutions to all kind of problems"
+      }
+    ],
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/daniel-alberto-murillo-acevedo-087088158/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/DanielMurillo94",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Modern Combat Versus",
+        "category":"As a part of the team in charge of porting the game to android",
+        "image":"ModernCombatversus.jpg",
+        "url":"https://www.gameloft.com/es/game/modern-combat-versus"
+      },
+      {
+        "title":"Clebber",
+        "category":"Front-End developer of clebber, an app to keep track of your car using react native",
+        "image":"Clebber.jpg",
+        "url":"https://clebber.app/"
+      },
+      {
+        "title":"SafeFamily",
+        "category":"Full Stack developer of safefamily. A react native app part of the SafePass system for house security",
+        "image":"SafeFamily.jpg",
+        "url":"https://www.safepassapp.com"
+      },
+      {
+        "title":"SafeAccess",
+        "category":"Full Stack developer of SafeAccess. A react native app part of the SafePass system for house security",
+        "image":"SafeAccess.jpg",
+        "url":"https://www.safepassapp.com"
+      }
+    ]
+  }
+}
